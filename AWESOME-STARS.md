@@ -52,6 +52,8 @@
 
 ## JavaScript 
 
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+- [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
 - [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [borntofrappe/svelte-tutorial](https://github.com/borntofrappe/svelte-tutorial) - Practice with Svelte.js with a series of applications.
@@ -154,7 +156,6 @@
 
 ## Vue 
 
-- [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
 - [jackbrens/nuxt3-project](https://github.com/jackbrens/nuxt3-project) - 🎉🎉🎉 Nxut3 + TS + Element-plus 从 0 到 1 搭建掘金网站（万字教程）【更新中...】
 - [chansee97/nuxt-blog](https://github.com/chansee97/nuxt-blog) - a personal blog site
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
