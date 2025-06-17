@@ -134,7 +134,7 @@
 ## TypeScript 
 
 - [myltx/dream-hub-api](https://github.com/myltx/dream-hub-api) - 🚀 基于 nestjs 实现实用网站保存、个人笔记记录功能
-- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [surmon-china/nodepress](https://github.com/surmon-china/nodepress) - 🟢 RESTful API service for https://surmon.me blog, powered by @nestjs
 - [maqi1520/nextjs-tailwind-blog](https://github.com/maqi1520/nextjs-tailwind-blog) - 我的博客第三版，使用 NextJS 和 TailwindCSS
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
