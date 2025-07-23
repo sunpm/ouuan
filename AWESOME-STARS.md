@@ -164,7 +164,7 @@
 - [jackbrens/nuxt3-project](https://github.com/jackbrens/nuxt3-project) - 🎉🎉🎉 Nxut3 + TS + Element-plus 从 0 到 1 搭建掘金网站（万字教程）【更新中...】
 - [chansee97/nuxt-blog](https://github.com/chansee97/nuxt-blog) - a personal blog site
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-- [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+- [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 Vue3 admin Better全新发布请前往https://github.com/zxwk1998/vue3-admin-better
 
 
 ## License
