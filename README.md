@@ -62,6 +62,13 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Otto-J">
+        <img src="https://avatars2.githubusercontent.com/u/9958583" width="100px;" alt="Otto-J"/>
+      </a>
+      <br />
+      <a href="https://github.com/Otto-J">辛宝Otto</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fengstats">
         <img src="https://avatars2.githubusercontent.com/u/48991003" width="100px;" alt="fengstats"/>
       </a>
@@ -103,6 +110,8 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/myltx">小马</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/han1548772930">
         <img src="https://avatars2.githubusercontent.com/u/83765419" width="100px;" alt="han1548772930"/>
