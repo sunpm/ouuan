@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AppleScript](#applescript)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -17,17 +16,12 @@
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-
-## AppleScript 
-
-- [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 
 ## C# # 
 
@@ -48,22 +42,18 @@
 ## HTML 
 
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-- [glepnir/GoDoc-CN](https://github.com/glepnir/GoDoc-CN) - Go标准库的中文版Dash文档
-- [liuam007/button](https://github.com/liuam007/button) - 点击波纹效果
 
 ## JavaScript 
 
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
-- [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [borntofrappe/svelte-tutorial](https://github.com/borntofrappe/svelte-tutorial) - Practice with Svelte.js with a series of applications.
 - [quarkape/free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载在线LOGO设计网站的高清无水印海报或LOGO，支持裁剪功能
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [woai3c/vue-upload-imgs](https://github.com/woai3c/vue-upload-imgs) - vue 图片上传组件（base64 版）
 - [soyaine/JavaScript30](https://github.com/soyaine/JavaScript30) - 有关 @wesbos 的课程 JavaScript-30 的中文练习指南
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
@@ -97,15 +87,8 @@
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [Col0ring/webNotes](https://github.com/Col0ring/webNotes) - web前端学习笔记，在线预览地址
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [8enet/Charles-Crack](https://github.com/8enet/Charles-Crack) - Removed according to DMCA.
 - [free-ss/free-ss.site](https://github.com/free-ss/free-ss.site) - 关于 free-ss.site 网站的介绍
-- [jeasonstudio/CN-VScode-Docs](https://github.com/jeasonstudio/CN-VScode-Docs) - VScode说明文档翻译
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-## PHP 
-
-- [Siphils/Typecho-Theme-Aria](https://github.com/Siphils/Typecho-Theme-Aria) - Typecho Theme Aria - 书写自己的篇章
-- [AlanDecode/Typecho-Theme-RAW](https://github.com/AlanDecode/Typecho-Theme-RAW) - “在互联网上寻找栖息之地”
 
 ## Python 
 
@@ -140,19 +123,18 @@
 
 ## TypeScript 
 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，每天 60 秒看世界、壁纸、小红书/B站/微博/抖音/知乎热搜、翻译、Epic 游戏、转二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、翻译、壁纸、Epic 游戏、二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [myltx/dream-hub-api](https://github.com/myltx/dream-hub-api) - 🚀 基于 nestjs 实现实用网站保存、个人笔记记录功能
 - [surmon-china/nodepress](https://github.com/surmon-china/nodepress) - 🟢 RESTful API service for https://surmon.me blog, powered by @nestjs
 - [maqi1520/nextjs-tailwind-blog](https://github.com/maqi1520/nextjs-tailwind-blog) - 我的博客第三版，使用 NextJS 和 TailwindCSS
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
-- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [ModyQyW/fabric](https://github.com/ModyQyW/fabric) - Opinionated shareable specifications for git-based JavaScript/TypeScript projects.
 - [sunpm/blog-pages](https://github.com/sunpm/blog-pages) - 一个小小网站，记录为学习付出努力而不该忘记的知识。
 - [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
-- [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [loosheng/intellij-vitesse-theme](https://github.com/loosheng/intellij-vitesse-theme) - 
 - [sunpm/unisave](https://github.com/sunpm/unisave) - 拥抱 web 开发，拯救 uniapp。👋👋👋 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版，适配所有(app、mp、web)平台！！！
 - [Hacker-C/100](https://github.com/Hacker-C/100) - 
@@ -167,9 +149,6 @@
 
 ## Vue 
 
-- [jackbrens/nuxt3-project](https://github.com/jackbrens/nuxt3-project) - 🎉🎉🎉 Nxut3 + TS + Element-plus 从 0 到 1 搭建掘金网站（万字教程）【更新中...】
-- [chansee97/nuxt-blog](https://github.com/chansee97/nuxt-blog) - a personal blog site
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 
 
