@@ -117,7 +117,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
         <img src="https://avatars2.githubusercontent.com/u/29727848" width="100px;" alt="myltx"/>
       </a>
       <br />
-      <a href="https://github.com/myltx">小马</a>
+      <a href="https://github.com/myltx">XiaoMa</a>
     </td>
     <td align="center">
       <a href="https://github.com/han1548772930">
