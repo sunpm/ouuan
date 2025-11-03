@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -28,6 +29,10 @@
 ## Astro 
 
 - [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
+
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C# # 
 
