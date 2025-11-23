@@ -61,6 +61,7 @@
 
 ## JavaScript 
 
+- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
