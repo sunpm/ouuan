@@ -56,7 +56,7 @@
 
 ## Java 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## JavaScript 
 
@@ -91,7 +91,7 @@
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [lqc520/uniapp-plugin](https://github.com/lqc520/uniapp-plugin) - uniapp插件开发
 - [kjfx/QuantumultX](https://github.com/kjfx/QuantumultX) - Quantumult X 新手入门教程
-- [OverTheWallNode/SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
+- [OverTheWallNode/SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) - 2026 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
