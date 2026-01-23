@@ -131,7 +131,6 @@
 
 ## Swift 
 
-- [JokerQianwei/Focus](https://github.com/JokerQianwei/Focus) - 随机提示音专注时钟，Mac 版本
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [lslqtz/bclm_loop](https://github.com/lslqtz/bclm_loop) - A background looping utility that maintains the battery level of Apple Silicon based Mac computers.
