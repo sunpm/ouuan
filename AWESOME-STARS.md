@@ -63,7 +63,6 @@
 - [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - [Web] Get app icons from App Store / 从 App Store 上获取应用图标
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [borntofrappe/svelte-tutorial](https://github.com/borntofrappe/svelte-tutorial) - Practice with Svelte.js with a series of applications.
@@ -90,6 +89,7 @@
 ## Others 
 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [lqc520/uniapp-plugin](https://github.com/lqc520/uniapp-plugin) - uniapp插件开发
 - [kjfx/QuantumultX](https://github.com/kjfx/QuantumultX) - Quantumult X 新手入门教程
 - [OverTheWallNode/SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) - 2026 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
