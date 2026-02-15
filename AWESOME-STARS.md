@@ -84,6 +84,7 @@
 
 ## Markdown 
 
+- [cxyfreedom/cxyfreedom](https://github.com/cxyfreedom/cxyfreedom) - 
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 
 ## Others 
@@ -96,7 +97,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
-- [cxyfreedom/cxyfreedom](https://github.com/cxyfreedom/cxyfreedom) - 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [Col0ring/webNotes](https://github.com/Col0ring/webNotes) - web前端学习笔记，在线预览地址
