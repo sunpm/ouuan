@@ -15,6 +15,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -76,6 +77,10 @@
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [re-ovo/unocss-intellij](https://github.com/re-ovo/unocss-intellij) - Unocss support on Intellij Idea/WebStorm
 
+## Lua 
+
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
 ## Markdown 
 
 - [cxyfreedom/cxyfreedom](https://github.com/cxyfreedom/cxyfreedom) - 
@@ -83,6 +88,7 @@
 
 ## Others 
 
+- [lonr/rime-squirrel-macos-color-scheme](https://github.com/lonr/rime-squirrel-macos-color-scheme) - 一个模仿 macOS 输入法外观的鼠须管（Rime Squirrel）配色方案。A Rime Squirrel color scheme that mimics the macOS input method's appearance.
 - [clash-verge-rev/clash-verge-rev.github.io](https://github.com/clash-verge-rev/clash-verge-rev.github.io) - Clash Verge Rev Documentation
 - [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
@@ -120,7 +126,7 @@
 ## Shell 
 
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-- [ModyQyW/cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules) - My Cursor User Rules.
+- [ModyQyW/ai](https://github.com/ModyQyW/ai) - My ai usage.
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
@@ -129,6 +135,7 @@
 
 ## Swift 
 
+- [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
