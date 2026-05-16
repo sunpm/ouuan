@@ -171,7 +171,7 @@
 - [sunpm/unisave](https://github.com/sunpm/unisave) - 拥抱 web 开发，拯救 uniapp。👋👋👋 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版，适配所有(app、mp、web)平台！！！
 - [Hacker-C/100](https://github.com/Hacker-C/100) - 
 - [roojay/bobplugin-google-translate](https://github.com/roojay/bobplugin-google-translate) - Bob 的一个Google 翻译插件
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges
 - [ATQQ/uni-vue3-ts-template](https://github.com/ATQQ/uni-vue3-ts-template) - 开箱即用的uni-app vue3 TS 工程化模板项目，支持小程序/H5/APP开发使用，包含pinia，sass/less，axios，vitest，eslint，Unocss
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
