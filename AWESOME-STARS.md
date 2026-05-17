@@ -88,6 +88,7 @@
 
 ## Others 
 
+- [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
 - [lonr/rime-squirrel-macos-color-scheme](https://github.com/lonr/rime-squirrel-macos-color-scheme) - 一个模仿 macOS 输入法外观的鼠须管（Rime Squirrel）配色方案。A Rime Squirrel color scheme that mimics the macOS input method's appearance.
 - [clash-verge-rev/clash-verge-rev.github.io](https://github.com/clash-verge-rev/clash-verge-rev.github.io) - Clash Verge Rev Documentation
 - [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
