@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [HTML](#html)
 - [Java](#java)
@@ -40,6 +41,10 @@
 ## CSS 
 
 - [imochen/hotcss](https://github.com/imochen/hotcss) - 移动端布局终极解决方案 --- 让移动端布局开发更加容易
+
+## Dart 
+
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 
 ## Dockerfile 
 
