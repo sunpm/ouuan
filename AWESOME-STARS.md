@@ -52,6 +52,7 @@
 
 ## HTML 
 
+- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [CMBill/lxgw-wenkai-web](https://github.com/CMBill/lxgw-wenkai-web) - LXGW WenKai / 霞鹜文楷 网络字体仓库
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
@@ -63,7 +64,6 @@
 ## JavaScript 
 
 - [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - [Web] Get app icons from App Store / 从 App Store 获取应用图标
-- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
