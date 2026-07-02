@@ -9,7 +9,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [HTML](#html)
 - [Java](#java)
@@ -41,10 +40,6 @@
 ## CSS 
 
 - [imochen/hotcss](https://github.com/imochen/hotcss) - 移动端布局终极解决方案 --- 让移动端布局开发更加容易
-
-## Dart 
-
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 
 ## Dockerfile 
 
@@ -95,6 +90,7 @@
 
 ## Others 
 
+- [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 - [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
 - [lonr/rime-squirrel-macos-color-scheme](https://github.com/lonr/rime-squirrel-macos-color-scheme) - 一个模仿 macOS 输入法外观的鼠须管（Rime Squirrel）配色方案。A Rime Squirrel color scheme that mimics the macOS input method's appearance.
 - [clash-verge-rev/clash-verge-rev.github.io](https://github.com/clash-verge-rev/clash-verge-rev.github.io) - Clash Verge Rev Documentation
