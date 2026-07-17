@@ -54,7 +54,7 @@
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - [Web] Get app icons from App Store / 从 App Store 获取应用图标
-- [luzhenhua/echo-flow](https://github.com/luzhenhua/echo-flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
+- [luzhenhua/echo-flow](https://github.com/luzhenhua/echo-flow) - 英语音频文件在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [gaozhenqiang/uniapp-chatSSEClient](https://github.com/gaozhenqiang/uniapp-chatSSEClient) - uniapp，sse封装，兼容app、浏览器、微信小程序、v2、v3
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
