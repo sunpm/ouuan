@@ -76,13 +76,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/fengstats">小小石</a>
     </td>
     <td align="center">
-      <a href="https://github.com/duoluodexiaoxiaoyuan">
-        <img src="https://avatars2.githubusercontent.com/u/59086082" width="100px;" alt="duoluodexiaoxiaoyuan"/>
-      </a>
-      <br />
-      <a href="https://github.com/duoluodexiaoxiaoyuan">duoluodexiaoxiaoyuan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Vanisper">
         <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
       </a>
@@ -110,8 +103,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/Psilocine">PsiloLau</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HongxuanG">
         <img src="https://avatars2.githubusercontent.com/u/64389111" width="100px;" alt="HongxuanG"/>
