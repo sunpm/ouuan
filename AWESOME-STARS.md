@@ -138,6 +138,7 @@
 
 ## Swift 
 
+- [qzz0518/Charker](https://github.com/qzz0518/Charker) - Native macOS companion for the Anker Prime 160W charger (A2687)
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
