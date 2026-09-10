@@ -91,7 +91,6 @@
 - [clash-verge-rev/clash-verge-rev.github.io](https://github.com/clash-verge-rev/clash-verge-rev.github.io) - Clash Verge Rev Documentation
 - [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - 本项目已停止维护。
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 
 - [yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [lqc520/uniapp-plugin](https://github.com/lqc520/uniapp-plugin) - uniapp插件开发
@@ -123,7 +122,6 @@
 
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## Shell 
 
@@ -154,6 +152,7 @@
 
 ## TypeScript 
 
+- [realchendahuang/feedsieve](https://github.com/realchendahuang/feedsieve) - X 赛博清洁工：高置信垃圾账号黄框标注，一键原生拉黑，全端同步消失。官网 feedsieve.win · Open-source X (Twitter) spam blocker for Chrome.
 - [wangeditor-next/wangEditor-next](https://github.com/wangeditor-next/wangEditor-next) - 基于 slate.js、支持 vue2、3、react、markdown、多人协同、易使用、可扩展的富文本编辑器
 - [dengcb/weixin-reader-desktop](https://github.com/dengcb/weixin-reader-desktop) - 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强 A Weixin Reader Desktop with Auto-turning and Wide-pager
 - [xiaohe0601/uni-echarts](https://github.com/xiaohe0601/uni-echarts) - 🪀 适用于 uni-app 的 Apache ECharts 组件（仅支持 Vue 3）
@@ -168,6 +167,7 @@
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [ModyQyW/fabric](https://github.com/ModyQyW/fabric) - Opinionated shareable specifications for git-based JavaScript/TypeScript projects.
 - [sunpm/blog-pages](https://github.com/sunpm/blog-pages) - 一个小小网站，记录为学习付出努力而不该忘记的知识。
 - [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
