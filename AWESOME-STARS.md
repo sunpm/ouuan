@@ -139,7 +139,7 @@
 ## Swift 
 
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-- [qzz0518/Charker](https://github.com/qzz0518/Charker) - Native macOS companion for the Anker Prime 160W charger (A2687)
+- [qzz0518/Charker](https://github.com/qzz0518/Charker) - Native macOS companion for the Anker Prime 160W charger and 250W charger (A2687 and A2345)
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
@@ -153,7 +153,6 @@
 
 ## TypeScript 
 
-- [realchendahuang/feedsieve](https://github.com/realchendahuang/feedsieve) - 用了福滤娃，评论区不骚了，也不黑了。开源的 X（Twitter）垃圾账号清理工具：黄推一眼标出，真拉黑全端同步，误杀随时可救。feedsieve.win
 - [wangeditor-next/wangEditor-next](https://github.com/wangeditor-next/wangEditor-next) - 基于 slate.js、支持 vue2、3、react、markdown、多人协同、易使用、可扩展的富文本编辑器
 - [dengcb/weixin-reader-desktop](https://github.com/dengcb/weixin-reader-desktop) - 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强 A Weixin Reader Desktop with Auto-turning and Wide-pager
 - [xiaohe0601/uni-echarts](https://github.com/xiaohe0601/uni-echarts) - 🪀 适用于 uni-app 的 Apache ECharts 组件（仅支持 Vue 3）
