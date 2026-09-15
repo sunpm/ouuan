@@ -86,6 +86,7 @@
 
 ## Others 
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 - [lonr/rime-squirrel-macos-color-scheme](https://github.com/lonr/rime-squirrel-macos-color-scheme) - 一个模仿 macOS 输入法外观的鼠须管（Rime Squirrel）配色方案。A Rime Squirrel color scheme that mimics the macOS input method's appearance.
 - [clash-verge-rev/clash-verge-rev.github.io](https://github.com/clash-verge-rev/clash-verge-rev.github.io) - Clash Verge Rev Documentation
