@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [dcloudio/uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) - uni-app preset for vue
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - [Web] Get app icons from App Store
 - [luzhenhua/echo-flow](https://github.com/luzhenhua/echo-flow) - 英语音频文件在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
