@@ -9,6 +9,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
+- [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -39,6 +40,10 @@
 ## Dockerfile 
 
 - [Merlin-Chest/Blog](https://github.com/Merlin-Chest/Blog) - 个人学习及知识记录整理
+
+## Go 
+
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 ## HTML 
 
