@@ -146,6 +146,7 @@
 
 ## Swift 
 
+- [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [qzz0518/Charker](https://github.com/qzz0518/Charker) - Native macOS companion for the Anker Prime 160W charger and 250W charger (A2687 and A2345)
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
